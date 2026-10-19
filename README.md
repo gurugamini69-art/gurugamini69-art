@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=gurugamini69-art&show_icons=true&theme=radical)
+
 
 <!--
 **gurugamini69-art/gurugamini69-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
